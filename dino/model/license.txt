@@ -1,0 +1,11 @@
+Model Information:
+* title:	Greeno Dino
+* source:	https://sketchfab.com/3d-models/greeno-dino-1fec2f6b869a42a592d29466402d1e93
+* author:	leocalca (https://sketchfab.com/leocalca)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Greeno Dino" (https://sketchfab.com/3d-models/greeno-dino-1fec2f6b869a42a592d29466402d1e93) by leocalca (https://sketchfab.com/leocalca) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
